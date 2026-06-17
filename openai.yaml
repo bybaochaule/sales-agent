@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zodiac Crystal Bracelets"
+  short_description: "Create zodiac crystal bracelet guides"
+  default_prompt: "Use $zodiac-crystal-bracelets to recommend a zodiac crystal bracelet for a customer."
