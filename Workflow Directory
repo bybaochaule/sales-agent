@@ -1,0 +1,37 @@
+# Workflow Directory
+
+Use this file as fallback routing when the request names or implies a workflow but no more detailed workflow artifact is available.
+
+## Account And Market Context
+
+- `account-intelligence-monitor`: Use for current account briefs, public signal scans, account watchlist updates, leadership or funding changes, account risk signals, and "what changed" summaries. Output verified changes, why they matter, likely sales implications, and next actions.
+- `competitive-intelligence`: Use for competitor research, displacement strategy, public positioning, competitor account signals, and battlecard-style synthesis. Separate public facts from seller inference and cite sources.
+- `internal-navigation`: Use when the seller needs help finding internal owners, prior account knowledge, similar customer examples, enablement material, or internal next steps. Ask for or inspect available internal context before recommending paths.
+
+## Meeting And Prospect Preparation
+
+- `meeting-prep`: Use for upcoming customer meetings when the account or relationship already exists. Output meeting objective, account context, attendee hypotheses, likely risks, discovery angles, agenda, and seller prep checklist.
+- `prospect-call-prep`: Use for first meetings, prospect discovery, outbound-sourced conversations, or early qualification. Output account snapshot, hypothesized pains, tailored discovery questions, credibility points, and call plan.
+
+## Live Opportunity Strategy
+
+- `deal-strategy`: Use for stakeholder mapping, deal risk framing, blocker diagnosis, mutual action planning, next-step planning, and live opportunity coaching. Output stakeholder map, known evidence, gaps, risks, momentum signals, and the next three to five moves.
+- `value-engineering`: Use for business-case creation, value story development, ROI framing, quantified impact, executive narrative, and proof-point packaging. Keep assumptions explicit and label estimates.
+- `create-an-asset`: Use for customer-facing assets such as one-pagers, executive summaries, business-case notes, implementation narratives, or tailored leave-behinds. Keep claims source-backed and customer-ready.
+
+## Follow-Up And Handoff
+
+- `customer-call-followup`: Use after calls or meetings when notes, transcripts, or raw bullets need to become recap packages. Output customer-facing recap, action items with owners, follow-up draft, internal handoff notes, and open questions.
+- `draft-outreach`: Use for outbound emails, LinkedIn messages, follow-up nudges, re-engagement, champion enablement notes, and executive-facing messages. Tailor to the account, role, stage, and evidence.
+
+## Pipeline And Forecast
+
+- `pipeline-generation`: Use for account prioritization, white-space planning, territory or segment pipeline ideas, next-account lists, and pipeline creation strategy. Output prioritized targets, rationale, signals, and recommended motions.
+- `pipeline-review`: Use for pipeline quality inspection, stale opportunity detection, missing next steps, weak close plans, and account prioritization. Highlight only swing deals, stale motions, evidence gaps, and highest-leverage actions.
+- `sales-forecast-review`: Use for forecast posture, commit/upside/pipeline risk, close-date realism, stage hygiene, and risk-adjusted deal review. Separate CRM facts, seller judgment, and inference.
+
+## Coaching And Feedback
+
+- `sales-rep-feedback-coach`: Use for call-specific rep coaching, transcript-backed feedback, discovery quality, objection handling, next-step control, messaging, and meeting execution. Quote or cite evidence by call, note, or transcript location when available.
+- `sales-rep-trend-coach`: Use for multi-call or multi-rep pattern analysis, recurring coaching themes, skill progression, and team-level enablement opportunities. Avoid sweeping conclusions without enough examples.
+- `product-feedback-evidence`: Use to package customer product feedback from calls, notes, tickets, or emails. Separate verbatim feedback, inferred customer need, frequency, business impact, and recommended product follow-up.
